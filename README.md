@@ -76,7 +76,7 @@ user_salaries Table:
 
 🧾 Run Development Server
     php artisan serve
-    Access: http://localhost:8000
+    Access: http://localhost:8000/api/docs
 
 🧪 API Endpoints
 
